@@ -26,7 +26,7 @@ jobs:
       uses: treosh/lighthouse-ci-action@v11
       with:
         urls: |
-          https://fxu0303.github.io/jftl-lighthouse-workshop
+          https://fxu0303.github.io/jftl-lighthouse-workshop/src/index.html
         configPath: './lighthouserc.js'
         temporaryPublicStorage: true # upload lighthouse report to the temporary storage
 

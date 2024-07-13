@@ -2,7 +2,7 @@ module.exports = {
     ci: {
         collect: {
             // url: ['http://192.168.1.2:8080'],
-            url: ['https://github.com/'],
+            // url: ['https://github.com/'],
             // url: ['https://dev-onboarding.revers.io/onboarding'],
         },
         assert: {

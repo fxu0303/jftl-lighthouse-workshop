@@ -25,7 +25,6 @@ jobs:
  
     - name: Run Lighthouse CI
       uses: treosh/lighthouse-ci-action@v11
-      condition:
       # with:
         urls: |
           https://fxu0303.github.io/jftl-lighthouse-workshop/src/index.html
